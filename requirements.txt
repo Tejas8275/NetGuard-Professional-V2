@@ -1,0 +1,2 @@
+psutil==6.1.1
+mac-vendor-lookup==0.1.12
